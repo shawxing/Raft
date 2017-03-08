@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cinttypes": "cpp",
+        "cstdlib": "cpp",
+        "hash_map": "cpp"
+    }
+}
